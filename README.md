@@ -114,7 +114,7 @@ Visual customization and responsive layout rules.
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR-USERNAME.github.io/quiz-dar/
+🔗 https://reichgp.github.io/quiz-dar-2/
 
 ## 🎯 Educational Purpose
 
